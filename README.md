@@ -3,7 +3,7 @@ Computational pathology script utilizing Random Forest configurations to isolate
 # Predictive Analytics Engine for Ischemic Heart Disease Validation
 
 ## Project Overview
-This repository holds a standalone machine learning diagnostic module designed to screen clinical cardiovascular telemetry data. By parsing biometric indicators across training sets, the implementation models patient classification profiles with an optimization threshold of ~84.2%.
+This repository holds a standalone machine learning diagnostic module designed to screen clinical cardiovascular telemetry data. By parsing biometric indicators across training sets, the implementation models patient classification profiles with an optimization threshold of ~91.00%.
 
 ## Dataset Metrics Tracked
 - Morphological features: Age, Biological Sex
